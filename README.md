@@ -1,0 +1,2 @@
+# Clash_Verge_pac
+Clash Verge通过启动pac模式对国内的网站进行分流
